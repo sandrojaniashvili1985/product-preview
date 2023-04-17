@@ -16,9 +16,7 @@ main{
   border-radius: 10px;
   display: grid;
   grid-template-columns: 350px;
-  margin-top: 80px;
-  height: 50%;
-
+  margin: 50%;
 }
 
 @media (min-width: 600px) {
